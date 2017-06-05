@@ -2,7 +2,8 @@
 
 [![Slack Room][slack-badge]][slack-link]
 
-A cmd start command wrapper.
+A cmd start command wrapper for fish shell in WSL.  
+Note: this command is available only in windows file systems.
 
 ## Install
 
