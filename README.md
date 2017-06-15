@@ -1,6 +1,7 @@
 # wsl-open
 
-A cmd start command wrapper for fish shell in WSL.  
+A cmd start command wrapper for fish shell in WSL.
+
 Note: this command is available only in windows file systems.
 
 ## Install
@@ -8,7 +9,7 @@ Note: this command is available only in windows file systems.
 With [fisherman]
 
 ```
-fisher daiwahome/wsl-open
+fisher daiwahome/fish-wsl-open
 ```
 
 ## Usage
